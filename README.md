@@ -1,4 +1,3 @@
 # Belajar-kolaborasi
 
--Merge
--Squashing changes
+Belajar coding menyenagkan
